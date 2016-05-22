@@ -4,4 +4,3 @@ To build TWRP:
 lunch (devicename)
 make installclean
 time make recoveryimage showcommands
-
