@@ -1,6 +1,11 @@
-TWRP tree for Xiaomi Mi Max (hydrogen)
+# TWRP tree for Xiaomi Mi Max (hydrogen)
+
 To build TWRP:
-. build/envsetup.sh
-lunch (devicename)
-make installclean
-time make recoveryimage showcommands
+--------------
+
+
+    . build/envsetup.sh
+    lunch (devicename)
+    make installclean
+    time make recoveryimage showcommands
+
